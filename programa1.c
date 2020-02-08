@@ -7,13 +7,11 @@ int main(){
 
 	//Função para escrever a saída padrao (monitor)
 	printf ("Qual sua idade? ");
-
 	//Receber dados
 	scanf ("%d", &idade);
 
 	//Saída
 	printf ("Sua idade é %d\n", idade);
-
 
 	return 0;
 } //chave delimita um bloco
