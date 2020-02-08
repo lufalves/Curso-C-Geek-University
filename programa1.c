@@ -12,7 +12,7 @@ int main(){
 	scanf ("%d", &idade);
 
 	//Saída
-	printf ("Sua idade é %d", idade);
+	printf ("Sua idade é %d\n", idade);
 
 
 	return 0;
