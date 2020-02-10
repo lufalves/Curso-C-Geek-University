@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 //exercicio 1
-int main(){
+/*int main(){
 
 	float n1, n2;
 
@@ -19,4 +19,20 @@ int main(){
 	}
 
 	return 0;
-}
+}*/
+
+int main(){
+
+	int ano1, ano2;
+	int idade;
+
+	printf("Que ano você nasceu?")
+	scanf("%d", &ano1);
+	printf("Em que ano estamos?")
+	scanf("%d", &ano2);
+
+	idade = ano2 - ano1;
+
+	if()
+
+	return 0;
